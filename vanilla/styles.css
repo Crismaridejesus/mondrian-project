@@ -604,3 +604,11 @@
 }
 
 }
+
+@media screen and (orientation: landscape){
+.main-container{
+height: auto;
+min-height: 100vw;
+
+}
+}
