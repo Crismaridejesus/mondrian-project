@@ -608,7 +608,5 @@
 @media screen and (orientation: landscape) and (max-width: 1024px){
 .main-container{
 height: auto;
-min-height: 100dvw;
-
 }
 }
